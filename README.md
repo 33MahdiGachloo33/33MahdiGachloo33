@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @33MahdiGachloo33
 - 👀 I’m interested in Blockchain and Solidity
 - 🌱 I’m currently learning Everything about Blockchain
-- 💞️ I’m looking to collaborate on companies that need Blockchain Developer
+- 🤝🏻 I’m looking to collaborate on companies that need Blockchain Developer
 - 📫 How to reach me ... Here is my Email :mahdigachloo33@gmail.com
 
 
